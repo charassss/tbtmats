@@ -8,7 +8,7 @@ import net.minecraft.item.ItemAxe;
 
 public class ToolAxe extends ItemAxe implements IHasModel {
     public ToolAxe(String name, CreativeTabs tab, ToolMaterial material) {
-        super(material);
+        super(material, 8.0F, -3.0F);
         setRegistryName(name);
         setUnlocalizedName(name);
         setCreativeTab(tab);

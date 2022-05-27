@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08fda567-eedd-4d3a-a471-1a594ba7a53d" name="变更" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/agc_axe.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/agc_hoe.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/agc_pickaxe.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/agc_shovel.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModRecipes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/blockstates/agc_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/block/agc_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/agc_ore.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/TBTMats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/TBTMats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModBlocks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/items/tools/ToolAxe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/items/tools/ToolAxe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tbtmats.iws" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -249,7 +252,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653614990610</updated>
-      <workItem from="1653614996374" duration="24547000" />
+      <workItem from="1653614996374" duration="28131000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1653628260561</created>
@@ -300,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653645875193</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Initial commit">
+      <created>1653649611588</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653649611589</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

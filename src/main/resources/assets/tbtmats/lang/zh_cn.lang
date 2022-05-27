@@ -1,5 +1,9 @@
 item.agc_ingot.name=A.G.C 锭
 item.agc_sword.name=A.G.C 剑
+item.agc_pickaxe.name=A.G.C 镐
+item.agc_axe.name=A.G.C 斧
+item.agc_shovel.name=A.G.C 铲
+item.agc_hoe.name=A.G.C 锄
 
 tile.agc_block.name=A.G.C 块
 
@@ -9,4 +13,3 @@ itemGroup.tool_tab=TBTF: 工具
 itemGroup.armor_tab=TBTF: 防具
 itemGroup.food_tab=TBTF: 食物
 itemGroup.misc_tab=TBTF: 其他
-

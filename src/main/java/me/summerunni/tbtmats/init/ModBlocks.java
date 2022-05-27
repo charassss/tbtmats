@@ -14,4 +14,5 @@ public class ModBlocks {
     public static final List<Block> BLOCKS = new ArrayList<>();
 
     public static final Block AGC_BLOCK = new BlockBase("agc_block", Material.IRON, TBTMats.BLOCK_TAB);
+    public static final Block AGC_ORE = new BlockBase("agc_ore", Material.ROCK, TBTMats.BLOCK_TAB);
 }

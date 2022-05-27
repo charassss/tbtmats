@@ -1,5 +1,9 @@
 item.agc_ingot.name=A.G.C Ingot
 item.agc_sword.name=A.G.C Sword
+item.agc_pickaxe.name=A.G.C Pickaxe
+item.agc_axe.name=A.G.C Axe
+item.agc_shovel.name=A.G.C Shovel
+item.agc_hoe.name=A.G.C Hoe
 
 tile.agc_block.name=A.G.C Block
 

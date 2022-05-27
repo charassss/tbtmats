@@ -1,8 +1,10 @@
 package me.summerunni.tbtmats;
 
+import me.summerunni.tbtmats.init.ModRecipes;
 import me.summerunni.tbtmats.proxy.CommonProxy;
 import me.summerunni.tbtmats.tabs.*;
 import me.summerunni.tbtmats.util.Reference;
+import me.summerunni.tbtmats.util.handlers.RegistryHandler;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
@@ -25,6 +27,7 @@ public class TBTMats {
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
+        ModRecipes.init();
     }
 
     @Mod.EventHandler
