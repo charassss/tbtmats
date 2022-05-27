@@ -8,7 +8,7 @@ import org.jetbrains.annotations.NotNull;
 public class ArmorTab extends CreativeTabs {
 
     public ArmorTab() {
-        super(armor_tab);
+        super("armor_tab");
     }
 
     @Override

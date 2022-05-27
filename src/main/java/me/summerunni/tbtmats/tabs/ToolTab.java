@@ -13,7 +13,7 @@ public class ToolTab extends CreativeTabs {
 
     @Override
     public @NotNull ItemStack getTabIconItem() {
-        return new ItemStack(ModItems.AGC_INGOT);
+        return new ItemStack(ModItems.AGC_SWORD);
     }
 
 }
