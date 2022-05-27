@@ -1,0 +1,32 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run/*
+!run/SinglePlayer.txt
+runServer/*
+!runServer/eula.txt
+!runServer/server.properties
+
+/1_其一,setupDecomp,请先运行此脚本,再打开IDE.bat
+/0新建物品或方块.bat
+/打包前记得改版本号.bat
+/简要说明（中文）.txt
+/uuid.txt
