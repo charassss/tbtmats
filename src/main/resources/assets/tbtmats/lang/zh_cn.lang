@@ -1,2 +1,10 @@
 item.agc_ingot.name=A.G.C 锭
+
 tile.agc_block.name=A.G.C 块
+
+itemGroup.material_tab=TBTF: 材料
+itemGroup.block_tab=TBTF: 方块
+itemGroup.tool_tab=TBTF: 工具
+itemGroup.armor_tab=TBTF: 防具
+itemGroup.food_tab=TBTF: 食物
+itemGroup.misc_tab=TBTF: 其他

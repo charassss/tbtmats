@@ -14,11 +14,11 @@ import java.util.Objects;
 
 public class BlockBase extends Block implements IHasModel {
 
-        public BlockBase(String name, Material material) {
+        public BlockBase(String name, Material material, CreativeTabs tab) {
             super(material);
             setUnlocalizedName(name);
             setRegistryName(name);
-            setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
+            setCreativeTab(tab);
 
             ModBlocks.BLOCKS.add(this);
             ModItems.ITEMS.add(new ItemBlock(this).setRegistryName(Objects.requireNonNull(this.getRegistryName())));

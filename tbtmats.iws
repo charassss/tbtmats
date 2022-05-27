@@ -5,26 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08fda567-eedd-4d3a-a471-1a594ba7a53d" name="变更" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/blockstates/agc_block.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/block/agc_block.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/agc_block.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/blocks/agc_block.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/blocks/agc_ore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_axe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_body.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_boots.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_head.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_hoe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_ingot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_leggings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_pickaxe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_shovel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_sword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/ArmorTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/BlockTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/FoodTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/MaterialTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/MiscTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/ToolTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_block.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/TBTMats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/TBTMats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/blocks/BlockBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/blocks/BlockBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModBlocks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/items/ItemBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/items/ItemBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tbtmats.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tbtmats.iws" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,16 +115,16 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Chara/IdeaProjects/tbtmats/src/main/resources/assets/tbtmats/textures",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Chara/IdeaProjects/tbtmats/src/main/resources/assets/tbtmats/textures&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures" />
@@ -263,7 +258,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653614990610</updated>
-      <workItem from="1653614996374" duration="12751000" />
+      <workItem from="1653614996374" duration="17030000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1653628260561</created>
@@ -286,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653629184452</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1653634940221</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653634940221</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

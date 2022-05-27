@@ -1,2 +1,10 @@
 item.agc_ingot.name=A.G.C Ingot
+
 tile.agc_block.name=A.G.C Block
+
+itemGroup.material_tab=TBTF: Materials
+itemGroup.block_tab=TBTF: Blocks
+itemGroup.tool_tab=TBTF: Tools
+itemGroup.armor_tab=TBTF: Armor
+itemGroup.food_tab=TBTF: Food
+itemGroup.misc_tab=TBTF: Misc
