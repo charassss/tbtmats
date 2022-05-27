@@ -1,5 +1,6 @@
 package me.summerunni.tbtmats.init;
 
+import me.summerunni.tbtmats.blocks.BlockBase;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 
@@ -8,7 +9,8 @@ import java.util.List;
 
 public class ModBlocks {
 
-    public static final List<Block> BLOCKS = new ArrayList<Block>();
+    public static final List<Block> BLOCKS = new ArrayList<>();
 
-    public static final List<BlockBase> AGC_BLOCK = new ArrayList<BlockBase>("agc_block", Material.IRON);
+    public static final Block AGC_BLOCK = new BlockBase("agc_block", Material.IRON);
+
 }
