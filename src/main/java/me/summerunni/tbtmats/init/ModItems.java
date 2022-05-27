@@ -11,5 +11,4 @@ public class ModItems {
 
     public static final List<Item> ITEMS = new ArrayList<>();
     public static final Item AGC_INGOT = new ItemBase("agc_ingot", TBTMats.MATERIAL_TAB);
-    public static final Item AGC_BLOCK = new
 }

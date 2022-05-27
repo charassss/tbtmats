@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08fda567-eedd-4d3a-a471-1a594ba7a53d" name="变更" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/ArmorTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/BlockTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/FoodTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/MaterialTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/MiscTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/ToolTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_block.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/TBTMats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/TBTMats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/blocks/BlockBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/blocks/BlockBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModBlocks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/items/ItemBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/items/ItemBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tbtmats.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tbtmats.iws" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -258,7 +244,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653614990610</updated>
-      <workItem from="1653614996374" duration="17030000" />
+      <workItem from="1653614996374" duration="17163000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1653628260561</created>
@@ -288,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653634940221</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1653640540427</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653640540427</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
