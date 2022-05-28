@@ -29,7 +29,6 @@ public class TBTMats {
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
-        RegistryHandler.preInitRegistries();
     }
 
     @Mod.EventHandler

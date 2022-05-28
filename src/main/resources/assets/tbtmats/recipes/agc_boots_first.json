@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "tbtmats:agc_ingot"
+    }
+  },
+  "result": {
+    "item": "tbtmats:agc_boots",
+    "count": 1
+  }
+}

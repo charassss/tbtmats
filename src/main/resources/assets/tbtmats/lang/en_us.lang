@@ -14,6 +14,10 @@ item.agc_chestplate.name=A.G.C Chestplate
 item.agc_leggings.name=A.G.C Leggings
 item.agc_boots.name=A.G.C Boots
 
+#foods' name
+item.agc_apple.name=A.G.C Apple
+item.slide_chicken.name=LOL
+
 #blocks' name
 tile.agc_block.name=A.G.C Block
 tile.agc_ore.name=A.G.C Ore

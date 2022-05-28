@@ -38,7 +38,7 @@ public class ModItems {
     public static final ItemAxe AGC_AXE = new ToolAxe("agc_axe", TBTMats.Tool_TAB, MATERIAL_AGC);
 
     //foods
-    public static final ItemFood AGC_APPLE = new EffectFoodBase("agc_apple", 12, 0.6F, false, TBTMats.Food_TAB, new PotionEffect(MobEffects.RESISTANCE, 20*60*2, 2));
+    public static final ItemFood AGC_APPLE = new EffectFoodBase("agc_apple", 12, 0.6F, false, TBTMats.Food_TAB, new PotionEffect(MobEffects.RESISTANCE, 20*60*2, 2, false, true));
     public static final ItemFood SLIDECHICKEN = new FoodBase("slide_chicken", 15, 0.7F, false, TBTMats.Food_TAB);
 
     //armors

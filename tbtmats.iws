@@ -5,6 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08fda567-eedd-4d3a-a471-1a594ba7a53d" name="变更" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/blocks/AGCOre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_boots_first.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_boots_second.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_chestplate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_helmet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_leggings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/models/armor/agc_ingot_layer_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/models/armor/agc_ingot_layer_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/TBTMats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/TBTMats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/util/handlers/RegistryHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/util/handlers/RegistryHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tbtmats.iws" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.iws" afterDir="false" />
@@ -107,13 +119,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Chara/IdeaProjects/tbtmats/src/main/resources/assets/tbtmats/textures/items",
+    "last_opened_file_path": "C:/Users/Chara/IdeaProjects/tbtmats/src/main/resources/assets/tbtmats/textures/models/armor",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures\models\armor" />
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures\items" />
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures" />
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures\blocks" />
@@ -252,7 +265,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653614990610</updated>
-      <workItem from="1653614996374" duration="47522000" />
+      <workItem from="1653614996374" duration="50735000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1653628260561</created>
@@ -338,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653728970276</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Initial commit">
+      <created>1653729213029</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1653729213029</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
