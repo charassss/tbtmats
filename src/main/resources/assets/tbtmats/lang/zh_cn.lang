@@ -6,6 +6,7 @@ item.agc_shovel.name=A.G.C 铲
 item.agc_hoe.name=A.G.C 锄
 
 tile.agc_block.name=A.G.C 块
+tile.agc_ore.name=A.G.C 矿
 
 itemGroup.material_tab=TBTF: 材料
 itemGroup.block_tab=TBTF: 方块

@@ -1,6 +1,7 @@
 package me.summerunni.tbtmats.init;
 
 import me.summerunni.tbtmats.TBTMats;
+import me.summerunni.tbtmats.items.FoodBase;
 import me.summerunni.tbtmats.items.ItemBase;
 import me.summerunni.tbtmats.items.tools.*;
 import net.minecraft.creativetab.CreativeTabs;
@@ -22,4 +23,6 @@ public class ModItems {
     public static final ItemSpade AGC_SHOVEL = new ToolSpade("agc_shovel", TBTMats.Tool_TAB, MATERIAL_AGC);
     public static final ItemHoe AGC_HOE = new ToolHoe("agc_hoe", TBTMats.Tool_TAB, MATERIAL_AGC);
     public static final ItemAxe AGC_AXE = new ToolAxe("agc_axe", TBTMats.Tool_TAB, MATERIAL_AGC);
+
+    public static final ItemFood AGC_APPLE = new FoodBase("agc_apple", 12, 0.6F, false, TBTMats.Food_TAB);
 }

@@ -1,5 +1,7 @@
 {
   "variants": {
-    "normal": { "model": "tbtmats:agc_ore" }
+    "normal": {
+      "model": "tbtmats:agc_ore"
+    }
   }
 }

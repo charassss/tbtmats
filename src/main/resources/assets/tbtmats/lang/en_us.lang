@@ -6,6 +6,7 @@ item.agc_shovel.name=A.G.C Shovel
 item.agc_hoe.name=A.G.C Hoe
 
 tile.agc_block.name=A.G.C Block
+tile.agc_ore.name=A.G.C Ore
 
 itemGroup.material_tab=TBTF: Materials
 itemGroup.block_tab=TBTF: Blocks
@@ -13,3 +14,4 @@ itemGroup.tool_tab=TBTF: Tools
 itemGroup.armor_tab=TBTF: Armor
 itemGroup.food_tab=TBTF: Food
 itemGroup.misc_tab=TBTF: Misc
+

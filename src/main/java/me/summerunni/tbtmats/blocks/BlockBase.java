@@ -14,18 +14,18 @@ import java.util.Objects;
 
 public class BlockBase extends Block implements IHasModel {
 
-        public BlockBase(String name, Material material, CreativeTabs tab) {
-            super(material);
-            setUnlocalizedName(name);
-            setRegistryName(name);
-            setCreativeTab(tab);
+    public BlockBase(String name, Material material, CreativeTabs tab) {
+        super(material);
+        setUnlocalizedName(name);
+        setRegistryName(name);
+        setCreativeTab(tab);
 
-            ModBlocks.BLOCKS.add(this);
-            ModItems.ITEMS.add(new ItemBlock(this).setRegistryName(Objects.requireNonNull(this.getRegistryName())));
-        }
+        ModBlocks.BLOCKS.add(this);
+        ModItems.ITEMS.add(new ItemBlock(this).setRegistryName(Objects.requireNonNull(this.getRegistryName())));
+    }
 
-        @Override
-        public void registerModels() {
-            TBTMats.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0, "inventory");
-        }
+    @Override
+    public void registerModels() {
+        TBTMats.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0, "inventory");
+    }
 }

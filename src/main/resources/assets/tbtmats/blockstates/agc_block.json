@@ -1,5 +1,7 @@
 {
   "variants": {
-    "normal": { "model": "tbtmats:agc_block" }
+    "normal": {
+      "model": "tbtmats:agc_block"
+    }
   }
 }
