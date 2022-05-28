@@ -1,13 +1,24 @@
+#normal items' name
 item.agc_ingot.name=A.G.C 锭
+
+#tools' name
 item.agc_sword.name=A.G.C 剑
 item.agc_pickaxe.name=A.G.C 镐
 item.agc_axe.name=A.G.C 斧
 item.agc_shovel.name=A.G.C 铲
 item.agc_hoe.name=A.G.C 锄
 
+#armor's name
+item.agc_helmet.name=A.G.C 头盔
+item.agc_chestplate.name=A.G.C 铠甲
+item.agc_leggings.name=A.G.C 护腿
+item.agc_boots.name=A.G.C 靴子
+
+#blocks' name
 tile.agc_block.name=A.G.C 块
 tile.agc_ore.name=A.G.C 矿
 
+#tabs' name
 itemGroup.material_tab=TBTF: 材料
 itemGroup.block_tab=TBTF: 方块
 itemGroup.tool_tab=TBTF: 工具

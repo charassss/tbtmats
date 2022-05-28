@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08fda567-eedd-4d3a-a471-1a594ba7a53d" name="变更" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/armors/ArmorBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/items/EffectFoodBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/agc_boots.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/agc_chestplate.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/agc_helmet.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/agc_leggings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/slide_chicken.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_apple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/slide_chicken.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/TBTMats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/TBTMats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/items/FoodBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/items/FoodBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/ArmorTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/ArmorTab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/FoodTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/FoodTab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/MaterialTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/MaterialTab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/util/IHasModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/util/IHasModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_body.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_chestplate.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_head.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_helmet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tbtmats.iws" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -269,7 +252,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653614990610</updated>
-      <workItem from="1653614996374" duration="47274000" />
+      <workItem from="1653614996374" duration="47522000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1653628260561</created>
@@ -348,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653709345628</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Initial commit">
+      <created>1653728970276</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653728970276</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
