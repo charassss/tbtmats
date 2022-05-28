@@ -20,6 +20,12 @@ public class TBTMats {
 
     @SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.COMMON_PROXY_CLASS)
     public static CommonProxy proxy;
+    public static CreativeTabs BLOCK_TAB = new BlockTab();
+    public static CreativeTabs MATERIAL_TAB = new MaterialTab();
+    public static CreativeTabs Tool_TAB = new ToolTab();
+    public static CreativeTabs Armor_TAB = new ArmorTab();
+    public static CreativeTabs Food_TAB = new FoodTab();
+    public static CreativeTabs Misc_TAB = new MiscTab();
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
@@ -34,12 +40,5 @@ public class TBTMats {
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event) {
     }
-
-    public static CreativeTabs BLOCK_TAB = new BlockTab();
-    public static CreativeTabs MATERIAL_TAB = new MaterialTab();
-    public static CreativeTabs Tool_TAB = new ToolTab();
-    public static CreativeTabs Armor_TAB = new ArmorTab();
-    public static CreativeTabs Food_TAB = new FoodTab();
-    public static CreativeTabs Misc_TAB = new MiscTab();
 
 }

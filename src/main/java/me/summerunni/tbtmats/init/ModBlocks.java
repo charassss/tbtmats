@@ -2,7 +2,6 @@ package me.summerunni.tbtmats.init;
 
 import me.summerunni.tbtmats.TBTMats;
 import me.summerunni.tbtmats.blocks.BlockBase;
-import me.summerunni.tbtmats.tabs.BlockTab;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 
