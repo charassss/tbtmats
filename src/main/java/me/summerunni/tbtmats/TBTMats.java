@@ -4,7 +4,6 @@ import me.summerunni.tbtmats.init.ModRecipes;
 import me.summerunni.tbtmats.proxy.CommonProxy;
 import me.summerunni.tbtmats.tabs.*;
 import me.summerunni.tbtmats.util.Reference;
-import me.summerunni.tbtmats.util.handlers.RegistryHandler;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
@@ -26,6 +25,7 @@ public class TBTMats {
     public static CreativeTabs Armor_TAB = new ArmorTab();
     public static CreativeTabs Food_TAB = new FoodTab();
     public static CreativeTabs Misc_TAB = new MiscTab();
+    public static CreativeTabs TieIn_Tab = new TieInTab();
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {

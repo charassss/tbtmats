@@ -29,3 +29,19 @@ itemGroup.tool_tab=TBTF: Tools
 itemGroup.armor_tab=TBTF: Armor
 itemGroup.food_tab=TBTF: Food
 itemGroup.misc_tab=TBTF: Misc
+itemGroup.tie_in_tab=TBTF: Tie-in
+
+#tie-in items' name
+item.bx_ingot.name=BX Ingot
+item.bx_nugget.name=BX Nugget
+item.bx_sword.name=BX Sword
+item.bx_pickaxe.name=BX Pickaxe
+item.bx_axe.name=BX Axe
+item.bx_shovel.name=BX Shovel
+item.bx_hoe.name=BX Hoe
+item.bx_helmet.name=BX Helmet
+item.bx_chestplate.name=BX Chestplate
+item.bx_leggings.name=BX Leggings
+item.bx_boots.name=BX Boots
+tile.bx_block.name=BX Block
+tile.bx_ore.name=BX Ore

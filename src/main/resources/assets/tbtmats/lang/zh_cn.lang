@@ -29,3 +29,19 @@ itemGroup.tool_tab=TBTF: 工具
 itemGroup.armor_tab=TBTF: 防具
 itemGroup.food_tab=TBTF: 食物
 itemGroup.misc_tab=TBTF: 其他
+itemGroup.tie_in_tab=TBTF: 联动
+
+#tie-in items' name
+item.bx_ingot.name=大轩 锭
+item.bx_nugget.name=大轩 粒
+item.bx_sword.name=大轩 剑
+item.bx_pickaxe.name=大轩 镐
+item.bx_axe.name=大轩 斧
+item.bx_shovel.name=大轩 铲
+item.bx_hoe.name=大轩 锄
+item.bx_helmet.name=大轩 头盔
+item.bx_chestplate.name=大轩 铠甲
+item.bx_leggings.name=大轩 护腿
+item.bx_boots.name=大轩 靴子
+tile.bx_ore.name=大轩 矿
+tile.bx_block.name=大轩 块

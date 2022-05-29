@@ -13,6 +13,11 @@ public class ModBlocks {
 
     public static final List<Block> BLOCKS = new ArrayList<>();
 
+    //normal blocks
     public static final Block AGC_BLOCK = new BlockBase("agc_block", Material.IRON, TBTMats.BLOCK_TAB);
     public static final Block AGC_ORE = new AGCOre("agc_ore", Material.ROCK, TBTMats.BLOCK_TAB);
+
+    //tie-in blocks
+    public static final Block BX_BLOCK = new BlockBase("bx_block", Material.IRON, TBTMats.TieIn_Tab);
+    public static final Block BX_ORE = new BlockBase("bx_ore", Material.ROCK, TBTMats.TieIn_Tab);
 }

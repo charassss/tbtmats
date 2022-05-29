@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#A#",
+    "###"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:apple"
+    },
+    "#": {
+      "item": "tbtmats:agc_block"
+    }
+  },
+  "result": {
+    "item": "tbtmats:slide_chicken",
+    "count": 1
+  }
+}

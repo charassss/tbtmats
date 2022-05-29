@@ -9,18 +9,18 @@ import net.minecraft.item.ItemArmor;
 
 public class ArmorBase extends ItemArmor implements IHasModel {
 
-        public ArmorBase(String name, ArmorMaterial materialIn, int renderIndexIn, EntityEquipmentSlot equipmentSlotIn, CreativeTabs tab) {
-            super(materialIn, renderIndexIn, equipmentSlotIn);
+    public ArmorBase(String name, ArmorMaterial materialIn, int renderIndexIn, EntityEquipmentSlot equipmentSlotIn, CreativeTabs tab) {
+        super(materialIn, renderIndexIn, equipmentSlotIn);
 
-            setUnlocalizedName(name);
-            setRegistryName(name);
-            setCreativeTab(tab);
+        setUnlocalizedName(name);
+        setRegistryName(name);
+        setCreativeTab(tab);
 
-            ModItems.ITEMS.add(this);
-        }
+        ModItems.ITEMS.add(this);
+    }
 
-        @Override
-        public void registerModels() {
-            TBTMats.proxy.registerItemRenderer(this, 0, "inventory");
-        }
+    @Override
+    public void registerModels() {
+        TBTMats.proxy.registerItemRenderer(this, 0, "inventory");
+    }
 }
