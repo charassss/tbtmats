@@ -1,20 +1,20 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "###",
-    " S ",
-    " S "
+    "##",
+    "#S",
+    " S"
   ],
   "key": {
     "#": {
-      "item": "tbtmats:agc_ingot"
+      "item": "tbtmats:bx_ingot"
     },
     "S": {
-      "item": "minecraft:stick"
+      "item": "tbtmats:agc_stick"
     }
   },
   "result": {
-    "item": "tbtmats:agc_pickaxe",
+    "item": "tbtmats:bx_axe",
     "count": 1
   }
 }

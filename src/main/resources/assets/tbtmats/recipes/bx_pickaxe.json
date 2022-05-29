@@ -7,14 +7,14 @@
   ],
   "key": {
     "#": {
-      "item": "tbtmats:agc_ingot"
+      "item": "tbtmats:bx_ingot"
     },
     "S": {
-      "item": "minecraft:stick"
+      "item": "tbtmats:agc_stick"
     }
   },
   "result": {
-    "item": "tbtmats:agc_pickaxe",
+    "item": "tbtmats:bx_pickaxe",
     "count": 1
   }
 }

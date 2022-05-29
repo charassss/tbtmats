@@ -6,11 +6,11 @@
   ],
   "key": {
     "#": {
-      "item": "tbtmats:agc_ingot"
+      "item": "tbtmats:bx_ingot"
     }
   },
   "result": {
-    "item": "tbtmats:agc_helmet",
+    "item": "tbtmats:bx_helmet",
     "count": 1
   }
 }

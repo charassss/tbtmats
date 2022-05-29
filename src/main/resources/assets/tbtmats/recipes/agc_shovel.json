@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "###",
-    " S ",
-    " S "
+    "#",
+    "S",
+    "S"
   ],
   "key": {
     "#": {
@@ -14,7 +14,7 @@
     }
   },
   "result": {
-    "item": "tbtmats:agc_pickaxe",
+    "item": "tbtmats:agc_shovel",
     "count": 1
   }
 }

@@ -1,5 +1,6 @@
 #normal items' name
 item.agc_ingot.name=A.G.C 锭
+item.agc_stick.name=A.G.C 棍
 
 #tools' name
 item.agc_sword.name=A.G.C 剑

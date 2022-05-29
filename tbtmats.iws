@@ -5,61 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08fda567-eedd-4d3a-a471-1a594ba7a53d" name="变更" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/TieInTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/blockstates/bx_block.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/blockstates/bx_ore.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/block/bx_block.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/block/bx_ore.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/bx_axe.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/bx_block.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/bx_boots.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/bx_chestplate.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/bx_helmet.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/bx_hoe.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/bx_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/bx_leggings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/bx_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/bx_ore.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/bx_pickaxe.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/bx_shovel.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/bx_sword.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_apple.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/slide_chicken.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/blocks/bx_block.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/blocks/bx_block.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/blocks/bx_ore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/blocks/bx_ore.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_axe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_axe.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_boots.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_boots.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_chestplate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_chestplate.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_helmet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_helmet.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_hoe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_hoe.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_ingot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_ingot.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_leggings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_leggings.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_nugget.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_nugget.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_pickaxe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_pickaxe.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_shovel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_shovel.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_sword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_sword.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/models/armor/bx_layer_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/models/armor/bx_layer_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/blocks/AGCBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/blocks/BXBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/blocks/BXOre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/world/ModWorldGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/agc_stick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_axe_left_nvb7af.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_axe_right_kef8vb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_hoe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_shovel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_stick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_axe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_boots.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_chestplate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_helmet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_hoe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_leggings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_pickaxe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_shovel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_sword.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_stick.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/TBTMats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/TBTMats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/armors/ArmorBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/armors/ArmorBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/blocks/AGCOre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/blocks/AGCOre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModBlocks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModRecipes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModRecipes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/MiscTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/MiscTab.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tbtmats.ipr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_boots_first.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_boots_down.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_boots_second.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_boots_up.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_helmet.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_helmet.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_leggings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_leggings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_pickaxe.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_pickaxe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_sword.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_sword.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_axe.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_axe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_hoe.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_hoe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_pickaxe.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_pickaxe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_shovel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_shovel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_sword.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_sword.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tbtmats.iws" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,9 +113,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JavaScript File" />
         <option value="MCMeta 文件" />
+        <option value="Class" />
         <option value="JSON 文件" />
       </list>
     </option>
@@ -173,7 +158,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Chara/IdeaProjects/tbtmats/src/main/resources/assets/tbtmats/textures/items",
+    "js.buildTools.grunt.grunt-cli.package": "",
+    "last_opened_file_path": "C:/Users/Chara/IdeaProjects/tbtmats/src/main/resources/assets/tbtmats/recipes",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.0",
@@ -183,11 +169,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\recipes" />
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures\items" />
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\lib" />
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures\models\armor" />
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures" />
-      <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures\blocks" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures\models\armor" />
@@ -332,7 +318,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653614990610</updated>
-      <workItem from="1653614996374" duration="64050000" />
+      <workItem from="1653614996374" duration="73719000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1653628260561</created>
@@ -432,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653734358082</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Initial commit">
+      <created>1653783940901</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1653783940901</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

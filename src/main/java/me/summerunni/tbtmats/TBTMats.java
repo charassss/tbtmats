@@ -4,12 +4,14 @@ import me.summerunni.tbtmats.init.ModRecipes;
 import me.summerunni.tbtmats.proxy.CommonProxy;
 import me.summerunni.tbtmats.tabs.*;
 import me.summerunni.tbtmats.util.Reference;
+import me.summerunni.tbtmats.world.ModWorldGen;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import net.minecraftforge.fml.common.registry.GameRegistry;
 
 @Mod(modid = Reference.MODID, name = Reference.NAME, version = Reference.VERSION)
 public class TBTMats {
@@ -29,6 +31,7 @@ public class TBTMats {
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
+        GameRegistry.registerWorldGenerator(new ModWorldGen(), 0);
     }
 
     @Mod.EventHandler

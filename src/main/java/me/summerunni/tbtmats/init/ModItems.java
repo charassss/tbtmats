@@ -22,8 +22,8 @@ public class ModItems {
     public static final List<Item> ITEMS = new ArrayList<>();
 
     //tools materials
-    public static final Item.ToolMaterial MATERIAL_AGC = EnumHelper.addToolMaterial("material_agc", 3, 3500, 10.0F, 4.5F, 15);
-    public static final Item.ToolMaterial MATERIAL_BX = EnumHelper.addToolMaterial("material_bx", 4, 5000, 13.0F, 5.5F, 25);
+    public static final Item.ToolMaterial MATERIAL_AGC = EnumHelper.addToolMaterial("material_agc", 4, 3572, 10.0F, 4.5F, 15);
+    public static final Item.ToolMaterial MATERIAL_BX = EnumHelper.addToolMaterial("material_bx", 5, 5623, 15.0F, 6.5F, 25);
 
     //armors materials
     public static final ItemArmor.ArmorMaterial ARMOR_MATERIAL_AGC = EnumHelper.addArmorMaterial("armor_material_agc", Reference.MODID + ":agc_ingot", 40, new int[]{5, 8, 10, 6}, 22, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 2.0F);
@@ -31,6 +31,7 @@ public class ModItems {
 
     //normal items
     public static final Item AGC_INGOT = new ItemBase("agc_ingot", TBTMats.MATERIAL_TAB);
+    public static final Item AGC_STICK = new ItemBase("agc_stick", TBTMats.Misc_TAB);
 
     //tools
     public static final ItemSword AGC_SWORD = new ToolSword("agc_sword", TBTMats.Tool_TAB, MATERIAL_AGC);
@@ -41,7 +42,7 @@ public class ModItems {
 
     //foods
     public static final ItemFood AGC_APPLE = new EffectFoodBase("agc_apple", 12, 0.6F, false, TBTMats.Food_TAB, new PotionEffect(MobEffects.RESISTANCE, 20 * 60 * 2, 2, false, true));
-    public static final ItemFood SLIDECHICKEN = new FoodBase("slide_chicken", 15, 0.7F, false, TBTMats.Food_TAB);
+    public static final ItemFood SLIDECHICKEN = new FoodBase("slide_chicken", 20, 1.0F, false, TBTMats.Food_TAB);
 
     //armors
     public static final Item AGC_HELMET = new ArmorBase("agc_helmet", ARMOR_MATERIAL_AGC, 1, EntityEquipmentSlot.HEAD, TBTMats.Armor_TAB);
