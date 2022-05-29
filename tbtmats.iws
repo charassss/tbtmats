@@ -5,47 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08fda567-eedd-4d3a-a471-1a594ba7a53d" name="变更" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/blocks/AGCBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/blocks/BXBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/blocks/BXOre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/world/ModWorldGen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/models/item/agc_stick.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_axe_left_nvb7af.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_axe_right_kef8vb.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_hoe.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_shovel.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_stick.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_axe.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_block.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_boots.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_chestplate.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_helmet.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_hoe.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_leggings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_pickaxe.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_shovel.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/bx_sword.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/agc_stick.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/TBTMats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/TBTMats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/blocks/AGCOre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/blocks/AGCOre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModRecipes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModRecipes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/MiscTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/tabs/MiscTab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_boots_first.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_boots_down.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_boots_second.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_boots_up.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_helmet.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_helmet.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_leggings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_leggings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_pickaxe.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_pickaxe.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_sword.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/agc_sword.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_axe.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_axe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_hoe.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_hoe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_pickaxe.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_pickaxe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_shovel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_shovel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_sword.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/bx_sword.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tbtmats.api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tbtmats.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tbtmats.iws" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tbtmats.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.main.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,20 +118,20 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "js.buildTools.grunt.grunt-cli.package": "",
-    "last_opened_file_path": "C:/Users/Chara/IdeaProjects/tbtmats/src/main/resources/assets/tbtmats/recipes",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "fileTemplates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;js.buildTools.grunt.grunt-cli.package&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Chara/IdeaProjects/tbtmats/src/main/resources/assets/tbtmats/recipes&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\recipes" />
@@ -318,7 +283,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653614990610</updated>
-      <workItem from="1653614996374" duration="73719000" />
+      <workItem from="1653614996374" duration="74880000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1653628260561</created>
@@ -425,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653783940901</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Initial commit">
+      <created>1653797824334</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1653797824334</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,9 +417,13 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <MESSAGE value="version1.0 added basic elements 2022/5/27" />
+    <MESSAGE value="version 1.0 2022/5/29&#10;basic elements added to my mod" />
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
