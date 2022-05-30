@@ -32,6 +32,7 @@ public class ModItems {
     //normal items
     public static final Item AGC_INGOT = new ItemBase("agc_ingot", TBTMats.MATERIAL_TAB);
     public static final Item AGC_STICK = new ItemBase("agc_stick", TBTMats.Misc_TAB);
+    public static final Item COMPRESSED_WORKBENCH = new ItemBase("compressed_workbench", TBTMats.Misc_TAB);
 
     //tools
     public static final ItemSword AGC_SWORD = new ToolSword("agc_sword", TBTMats.Tool_TAB, MATERIAL_AGC);
