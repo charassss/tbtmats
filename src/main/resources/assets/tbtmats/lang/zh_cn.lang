@@ -1,6 +1,7 @@
 #normal items' name
 item.agc_ingot.name=A.G.C 锭
 item.agc_stick.name=A.G.C 棍
+item.compressed_workbench.name=压缩工作台ss
 
 #tools' name
 item.agc_sword.name=A.G.C 剑

@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08fda567-eedd-4d3a-a471-1a594ba7a53d" name="变更" comment="Initial commit">
+    <list default="true" id="08fda567-eedd-4d3a-a471-1a594ba7a53d" name="变更" comment="version1.0.1 2022/5/30&#10;added compressed_workbench to my mod">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/compressed_workbench.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/textures/items/compressed_workbench.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModRecipes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/summerunni/tbtmats/init/ModRecipes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/en_us.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/lang/zh_cn.lang" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tbtmats.api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tbtmats.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tbtmats.iws" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tbtmats.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.main.iml" afterDir="false" />
     </list>
@@ -65,9 +69,28 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tbtmats" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tbtmats" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tbtmats" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -118,40 +141,43 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;js.buildTools.grunt.grunt-cli.package&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Chara/IdeaProjects/tbtmats/src/main/resources/assets/tbtmats/recipes&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "js.buildTools.grunt.grunt-cli.package": "",
+    "last_opened_file_path": "C:/Users/Chara/IdeaProjects/tbtmats/run/mods",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\recipes" />
+      <recent name="C:\Users\Chara\IdeaProjects\tbtmats\run\mods" />
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures\items" />
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\lib" />
+      <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\recipes" />
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures\models\armor" />
-      <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chara\IdeaProjects\tbtmats\libs" />
+      <recent name="C:\Users\Chara\IdeaProjects\tbtmats\lib" />
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures\models\armor" />
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\models\item" />
       <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures\blocks" />
-      <recent name="C:\Users\Chara\IdeaProjects\tbtmats\lib" />
-      <recent name="C:\Users\Chara\IdeaProjects\tbtmats\src\main\resources\assets\tbtmats\textures\items" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="me.summerunni.tbtmats.items" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="me.summerunni.tbtmats.armors" />
+    </key>
   </component>
-  <component name="RunManager" selected="应用程序.Minecraft Client">
+  <component name="RunManager" selected="Gradle.tbtmats [jar]">
     <configuration default="true" factoryName="Applet" type="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -233,6 +259,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tbtmats [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="tbtmats [jar]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -257,9 +325,16 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Gradle.tbtmats [jar]" />
+      <item itemvalue="Gradle.tbtmats [build]" />
       <item itemvalue="应用程序.Minecraft Client" />
       <item itemvalue="应用程序.Minecraft Server" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.tbtmats [build]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration" maxAnnotateRevisions="500">
@@ -284,6 +359,10 @@
       <option name="presentableId" value="Default" />
       <updated>1653614990610</updated>
       <workItem from="1653614996374" duration="74880000" />
+      <workItem from="1653800447724" duration="103000" />
+      <workItem from="1653801391544" duration="8688000" />
+      <workItem from="1653868948099" duration="67000" />
+      <workItem from="1653888971694" duration="2140000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1653628260561</created>
@@ -397,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653797824334</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="version1.0 2022/5/29&#10;added basic elements to my mod">
+      <created>1653800506550</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1653800506550</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,7 +505,9 @@
     <MESSAGE value="version1.0 added basic elements 2022/5/27" />
     <MESSAGE value="version 1.0 2022/5/29&#10;basic elements added to my mod" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="version1.0 2022/5/29&#10;added basic elements to my mod" />
+    <MESSAGE value="version1.0.1 2022/5/30&#10;added compressed_workbench to my mod" />
+    <option name="LAST_COMMIT_MESSAGE" value="version1.0.1 2022/5/30&#10;added compressed_workbench to my mod" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
