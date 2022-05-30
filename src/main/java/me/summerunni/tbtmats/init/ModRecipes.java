@@ -9,6 +9,8 @@ public class ModRecipes {
         //register recipes
         GameRegistry.addSmelting(ModBlocks.AGC_ORE, new ItemStack(ModItems.AGC_INGOT), 1.0f);
         GameRegistry.addSmelting(ModBlocks.BX_ORE, new ItemStack(ModItems.BX_INGOT), 1.0f);
+        //delete recipes
+
     }
 
 }
