@@ -353,7 +353,7 @@
       <workItem from="1653800447724" duration="103000" />
       <workItem from="1653801391544" duration="8688000" />
       <workItem from="1653868948099" duration="67000" />
-      <workItem from="1653888971694" duration="2186000" />
+      <workItem from="1653888971694" duration="2299000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1653628260561</created>
@@ -481,7 +481,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653891516011</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="version1.0.1 2022/5/30&#10;added compressed_workbench to my mod">
+      <created>1653891560190</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1653891560190</updated>
+    </task>
+    <task id="LOCAL-00020" summary="version1.0.1 2022/5/30&#10;added compressed_workbench to my mod">
+      <created>1653891639492</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1653891639492</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
