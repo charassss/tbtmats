@@ -357,7 +357,7 @@
       <workItem from="1653888971694" duration="9424000" />
       <workItem from="1653968670535" duration="1429000" />
       <workItem from="1654050071198" duration="399000" />
-      <workItem from="1654162234481" duration="2737000" />
+      <workItem from="1654162234481" duration="3434000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1653628260561</created>
@@ -527,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654165564502</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="version 1.0.2 2022/6/2&#10;added small_thread to my mod">
+      <created>1654166125938</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1654166125938</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
