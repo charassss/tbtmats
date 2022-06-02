@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
   "result": {
-    "item": "minecraft:small_thread",
+    "item": "tbtmats:small_thread",
     "count": 1
   },
   "ingredients": [
