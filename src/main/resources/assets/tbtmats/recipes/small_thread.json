@@ -1,8 +1,8 @@
 {
   "type": "minecraft:crafting_shapeless",
   "result": {
-    "item": "minecraft:diamond_block",
-    "count": 64
+    "item": "minecraft:small_thread",
+    "count": 1
   },
   "ingredients": [
     {
