@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "tbtmats:double_stick",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:stick",
+      "data": 0
+    },
+    {
+      "item": "minecraft:stick",
+      "data": 0
+    }
+  ]
+}
