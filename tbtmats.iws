@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08fda567-eedd-4d3a-a471-1a594ba7a53d" name="变更" comment="version 1.0.3 2022/6/2&#10;add double_stick to my mod">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/tbtmats/recipes/double_stick.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tbtmats.iws" beforeDir="false" afterPath="$PROJECT_DIR$/tbtmats.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -357,7 +357,7 @@
       <workItem from="1653968670535" duration="1429000" />
       <workItem from="1654050071198" duration="399000" />
       <workItem from="1654162234481" duration="5157000" />
-      <workItem from="1654212063955" duration="2383000" />
+      <workItem from="1654212063955" duration="3110000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1653628260561</created>
@@ -562,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654220447289</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="version 1.0.3 2022/6/2&#10;add double_stick to my mod">
+      <created>1654220567110</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1654220567110</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
