@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "minecraft:string",
+    "count": 2
+  },
+  "ingredients": [
+    {
+      "item": "tbtmats:small_thread",
+      "data": 0
+    }
+  ]
+}
